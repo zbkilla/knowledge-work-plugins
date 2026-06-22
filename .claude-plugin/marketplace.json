@@ -184,7 +184,7 @@
         "url": "https://github.com/miroapp/miro-ai.git",
         "path": "claude-plugins/miro",
         "ref": "main",
-        "sha": "9d7c3dc0a9a365b298e3808c741c53e2e80d86d1"
+        "sha": "85c2c7347542b3ce185eb1d2793f8d79ad485c63"
       }
     },
     {
@@ -222,7 +222,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/sanity-io/agent-toolkit.git",
-        "sha": "2d7b7c08a31a6e5b613e33a9edc76456e4d7c052"
+        "sha": "2ec17ddc6034073b2974e6dbf691acb3bcc8b9fd"
       },
       "homepage": "https://www.sanity.io"
     },
@@ -271,7 +271,7 @@
         "url": "https://github.com/zapier/zapier-mcp.git",
         "path": "plugins/zapier",
         "ref": "main",
-        "sha": "ea8ed6b4de66e9bb46c12b3a38da8286e3770ad9"
+        "sha": "469b06007824bb859982a95d2dad5caec11e0bf1"
       },
       "homepage": "https://github.com/zapier/zapier-mcp/tree/main/plugins/zapier"
     },
@@ -431,7 +431,7 @@
         "url": "https://github.com/adobe/skills.git",
         "path": "plugins/creative-cloud/adobe-for-creativity",
         "ref": "main",
-        "sha": "c467bf831064ebda26f39dd30c02d7cce03eb26c"
+        "sha": "2cc13ce69845bf17311d3d0f68d395abdfa2fe05"
       },
       "homepage": "https://github.com/adobe/skills/tree/main/plugins/creative-cloud/adobe-for-creativity"
     },
@@ -488,7 +488,7 @@
         "url": "https://github.com/carta/plugins.git",
         "path": "plugins/carta-cap-table",
         "ref": "main",
-        "sha": "09f9e88252d8bc5ad4c452042f0b871be817ed07"
+        "sha": "bb45f4b388a0d96366b137a8c47d03c45434d1fa"
       },
       "homepage": "https://carta.com"
     },
@@ -501,7 +501,7 @@
         "url": "https://github.com/carta/plugins.git",
         "path": "plugins/carta-crm",
         "ref": "main",
-        "sha": "09f9e88252d8bc5ad4c452042f0b871be817ed07"
+        "sha": "bb45f4b388a0d96366b137a8c47d03c45434d1fa"
       },
       "homepage": "https://carta.com"
     },
@@ -514,7 +514,7 @@
         "url": "https://github.com/carta/plugins.git",
         "path": "plugins/carta-investors",
         "ref": "main",
-        "sha": "09f9e88252d8bc5ad4c452042f0b871be817ed07"
+        "sha": "bb45f4b388a0d96366b137a8c47d03c45434d1fa"
       },
       "homepage": "https://carta.com"
     },
@@ -543,7 +543,7 @@
         "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP.git",
         "path": "plugins/claude",
         "ref": "main",
-        "sha": "7a9b2ff0339a7fdc29c06a9957b323ef478a1dde"
+        "sha": "be82290ac1d64f19503d6b084865a91d114c872e"
       },
       "homepage": "https://desktopcommander.app"
     },
@@ -554,7 +554,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/qodo-ai/qodo-skills.git",
-        "sha": "8aec13d6ac60feb9d9f84f36aa1753234de17dc8"
+        "sha": "e7b677142bbb41eb8fd1cf4b50b2e759bb0c4f03"
       },
       "homepage": "https://qodo.ai"
     },
@@ -603,7 +603,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/base44/skills.git",
-        "sha": "aef0fa35f21b3c0c000d5ab8c0b068e6188618b6"
+        "sha": "7b301e25d0952235c985bb159ca71cc520f27bcf"
       },
       "homepage": "https://docs.base44.com"
     },
@@ -614,7 +614,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/wix/skills.git",
-        "sha": "561315d22a49544d6518d3a753973d3a95dfafcc"
+        "sha": "9cd9d7c60470194a6c3170e3d093a818a2f11d6b"
       },
       "homepage": "https://dev.wix.com/docs/wix-cli/guides/development/about-wix-skills"
     },
@@ -626,7 +626,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/datadog-labs/claude-code-plugin.git",
-        "sha": "96c28a8ce6f258ed54c9a17f16ee206deb8e3f28"
+        "sha": "c5c062abba0df33f6bfc2c0fd0f8d17857e3fa2c"
       },
       "homepage": "https://docs.datadoghq.com/bits_ai/mcp_server/setup?tab=claudecode"
     }
